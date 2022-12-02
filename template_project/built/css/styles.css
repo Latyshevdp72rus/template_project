@@ -2,4 +2,15 @@ body{
     margin: auto;
     background-image: url("../img/background.png");
     background-repeat: no-repeat;
+    font-family: Old Soviet;
+}
+@font-face {
+    font-family: Old Soviet;
+    src: url(../fonts/Old-Soviet.otf);
+
+}
+
+p{
+    margin: auto;
+    text-align: center;
 }
