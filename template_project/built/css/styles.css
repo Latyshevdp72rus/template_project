@@ -2,10 +2,10 @@ body{
     margin: auto;
     background-image: url("../img/background.png");
     background-repeat: no-repeat;
-    font-family: Old Soviet;
+    font-family: hui;
 }
 @font-face {
-    font-family: Old Soviet;
+    font-family: hui;
     src: url(../fonts/Old-Soviet.otf);
 
 }
