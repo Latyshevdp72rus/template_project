@@ -1,5 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/django,visualstudio,visualstudiocode,pycharm,pycharm+iml,pycharm+all,redis,venv,virtualenv
 # Edit at https://www.toptal.com/developers/gitignore?templates=django,visualstudio,visualstudiocode,pycharm,pycharm+iml,pycharm+all,redis,venv,virtualenv
+template_gitignore
 
 ### Django ###
 *.log
